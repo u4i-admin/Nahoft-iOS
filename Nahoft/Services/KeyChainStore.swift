@@ -42,11 +42,8 @@ class KeyChainStore {
     static func UpdateItem(key: String, password: Data) throws {
         let updatequery: [String: Any] = [kSecClass as String: kSecClassGenericPassword,
                                           kSecAttrService as String: service as AnyObject,
-                                          kSecAttrAccount as String: key as AnyObject,
-                                          kSecReturnData as String: kCFBooleanTrue as Any,
-   //                                       kSecAttrAccessGroup as String: keychainAccessGroupName as AnyObject,
-                                          kSecMatchLimit as String: kSecMatchLimitOne]
-        let attr: [String: Any] = [kSecAttrAccount as String: key as AnyObject,
+                                          kSecAttrAccount as String: key as AnyObject]
+        let attr: [String: Any] = [//kSecAttrAccount as String: key as AnyObject,
                                    kSecValueData as String: password as AnyObject]
         
         let status = SecItemUpdate(updatequery as CFDictionary, attr as CFDictionary)
