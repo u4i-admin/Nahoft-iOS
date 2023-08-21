@@ -1,0 +1,12 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "نهفت";
+
+/* Bundle name */
+"CFBundleName" = "Nahoft";
+
+/* Privacy - Face ID Usage Description */
+"NSFaceIDUsageDescription" = "به نهفت اجازه دسترسی به Face ID را بدهید تا پیام های شما را امن تر نگه دارد";
+
+/* Privacy - Photo Library Additions Usage Description */
+"NSPhotoLibraryAddUsageDescription" = "به نهفت اجازه دهید پیام های مخفی شده در عکس ها را در کتابخانه عکس ذخیره کند";
+
