@@ -1,0 +1,24 @@
+/* No comment provided by engineer. */
+"Close" = "خروج";
+
+/* No comment provided by engineer. */
+"Login" = "ورود";
+
+/* No comment provided by engineer. */
+"Ok" = "تایید";
+
+/* No comment provided by engineer. */
+"You have denied access. Please go to the settings app and locate Nahoft and turn Face ID on." = "شما دسترسی را محدود کردید. لطفا به تنظیمات نرم افزار بروید به نهفت را پیدا کنید و دسترسی Face ID را فعال کنید";
+
+/* No comment provided by engineer. */
+"You have not registered any Face IDs yet." = "شما هنوز Face ID را در دستگاه خود فعال نکردید";
+
+/* No comment provided by engineer. */
+"You have not registered any fingerprint yet." = "شما هیچ اثر انگشتی در دستگاه خود ثبت نکردید";
+
+/* No comment provided by engineer. */
+"Your Face ID or fingerprint were not recognized" = "چهره و یا اثر انگشت شما شناسایی نشد";
+
+/* No comment provided by engineer. */
+"Your passcode is incorrect" = "رمز ورود اشتباه است";
+
