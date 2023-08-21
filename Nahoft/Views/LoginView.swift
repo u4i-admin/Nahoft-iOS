@@ -74,7 +74,7 @@ struct LoginView: View {
                 let retrievedTimestamp = lastTime.withUnsafeBytes { $0.load(as: Double.self) }
                 let retrievedDate = Date(timeIntervalSinceReferenceDate: retrievedTimestamp)
                 
-                lastFailedLoginTime = Date()
+                lastFailedLoginTime = retrievedDate
             }
         } catch {
             failedLoginAttempts = 0
@@ -108,8 +108,9 @@ struct LoginView: View {
                         
                         try KeyChainStore.StoreItem(key: KeyChainStore.lastFailedLoginTime, password: data)
                         
-                        alertText = "Passcode is wrong"
-                        showAlert = true
+                        if !showAlert {
+                            showLockoutMessage()
+                        }
                     }
                 } catch LoginService.LoginError.passcodeNotSet {
                     alertText = "Passcode not set"
@@ -128,30 +129,39 @@ struct LoginView: View {
     
     func getLockoutMinutes() -> Int {
         if failedLoginAttempts >= 9 {
-            alertText = "The passcode entered is incorrect. This account has been deleted."
-            showAlert = true
             clearAllData(secondaryPass: false)
             withAnimation {
                 authentication.updateAuth(status: .NotRequired)
             }
             return 1000
         } else if failedLoginAttempts == 8 {
-            alertText = "The passcode entered is incorrect. You can try logging in again in 15 minutes."
-            showAlert = true
             return 15
         } else if failedLoginAttempts == 7 {
-            alertText = "The passcode entered is incorrect. You can try logging in again in 5 minutes."
-            showAlert = true
             return 5
         } else if failedLoginAttempts == 6 {
-            alertText = "The passcode entered is incorrect. You can try logging in again in 60 seconds."
-            showAlert = true
             return 1
         } else {
-            alertText = "The passcode entered is incorrect. Please try again."
-            showAlert = true
             return 0
         }
+    }
+    
+    func showLockoutMessage() {
+        if failedLoginAttempts >= 9 {
+            alertText = "The passcode entered is incorrect. This account has been deleted."
+            clearAllData(secondaryPass: false)
+            withAnimation {
+                authentication.updateAuth(status: .NotRequired)
+            }
+        } else if failedLoginAttempts == 8 {
+            alertText = "The passcode entered is incorrect. You can try logging in again in 15 minutes."
+        } else if failedLoginAttempts == 7 {
+            alertText = "The passcode entered is incorrect. You can try logging in again in 5 minutes."
+        } else if failedLoginAttempts == 6 {
+            alertText = "The passcode entered is incorrect. You can try logging in again in 60 seconds."
+        } else {
+            alertText = "The passcode entered is incorrect. Please try again."
+        }
+        showAlert = true
     }
     
     func clearAllData(secondaryPass: Bool) {
@@ -164,7 +174,9 @@ struct LoginView: View {
             try KeyChainStore.DeleteItem(key: KeyChainStore.publicKeyPreferencesKey)
             try KeyChainStore.StoreItem(key: KeyChainStore.failedLoginAttempts, password: "0".data(using: .utf8)!)
             
-            try KeyChainStore.StoreItem(key: KeyChainStore.passcode, password: passcode.data(using: .utf8)!)
+            if secondaryPass {
+                try KeyChainStore.StoreItem(key: KeyChainStore.passcode, password: passcode.data(using: .utf8)!)
+            }
         } catch {
             
         }
@@ -188,14 +200,16 @@ struct LoginView: View {
         }
         
         if let lastFailedLoginTime = lastFailedLoginTime {
-            let unlockTime = lastFailedLoginTime.addingTimeInterval(TimeInterval(minutesToWait))
+            let unlockTime = lastFailedLoginTime.addingTimeInterval(TimeInterval(minutesToWait * 60))
             
-            if (unlockTime > Date.now) {
+            if (unlockTime < Date.now) {
                 return true
             } else {
-                let remaining = unlockTime.timeIntervalSince(Date.now)
+                let remaining = Int(unlockTime.timeIntervalSince(Date.now))
+                let min = remaining / 60
+                let sec = remaining % 60
                 
-                alertText = "Please wait, %1$d minutes %2$d seconds before attempting to login again"
+                alertText = "Please wait, \(min) minutes \(sec) seconds before attempting to login again"
                 showAlert = true
 
                 return false
