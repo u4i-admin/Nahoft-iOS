@@ -1,0 +1,1886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D1B1C5C0-2188-4330-A8C8-06FFAA213918"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF662752-7572-4634-AB89-3116768E158A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Services/KeyChainStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "DeleteItem(key:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF662752-7572-4634-AB89-3116768E158A - 9dad14bfe97ab605"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Nahoft.KeyChainStore.DeleteItem(key: Swift.String) throws -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Services/KeyChainStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "BF662752-7572-4634-AB89-3116768E158A - 9dad14bfe97ab605"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Nahoft.KeyChainStore.DeleteItem(key: Swift.String) throws -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Services/KeyChainStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "715">
+               </Location>
+               <Location
+                  uuid = "BF662752-7572-4634-AB89-3116768E158A - 77f269ffe89c7c35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Share.KeyChainStore.DeleteItem(key: Swift.String) throws -&gt; ()"
+                  moduleName = "Share"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Services/KeyChainStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "715">
+               </Location>
+               <Location
+                  uuid = "BF662752-7572-4634-AB89-3116768E158A - 9dad14bfe97ab699"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Nahoft.KeyChainStore.DeleteItem(key: Swift.String) throws -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Services/KeyChainStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "904">
+               </Location>
+               <Location
+                  uuid = "BF662752-7572-4634-AB89-3116768E158A - 9dad14bfe97ab699"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Nahoft.KeyChainStore.DeleteItem(key: Swift.String) throws -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Services/KeyChainStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "715">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA2D97DF-2DBD-4284-A78C-73D8AD4C9148"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Share/ShareViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA2D97DF-2DBD-4284-A78C-73D8AD4C9148 - 20f059504093b881"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Share.ShareViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Share"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Share/ShareViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "178">
+               </Location>
+               <Location
+                  uuid = "CA2D97DF-2DBD-4284-A78C-73D8AD4C9148 - 20f059504093b881"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Share.ShareViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Share"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Share/ShareViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "655">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5C8B809-960B-4E4D-88B0-2CAECFACDFFC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Codex/Encryption.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "loadKeypair()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABA0C71C-CAFF-402B-8B46-70E2C37671C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Codex/Encryption.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "ensureKeysExist()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "785171EB-DC68-4EFC-8938-B844C1C52F1D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Codex/Encryption.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "generateKeypair()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81E0EC68-AFA5-457B-AA38-710A89E0CE34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Codex/Encryption.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "encrypt(encodedPublicKey:plaintext:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "574D9556-3298-4E11-B7FF-9641FFF93216"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Codex/Encryption.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "decrypt(friendPublicKey:ciphertext:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A1F69E9-8686-4ABB-98DA-EE7A1BFB671A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Views/MessageList/InvitedStatusView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "importPublicKey()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7A1F69E9-8686-4ABB-98DA-EE7A1BFB671A - 7263d3fd0b720dd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Nahoft.InvitedStatusView.importPublicKey() -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/InvitedStatusView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "7A1F69E9-8686-4ABB-98DA-EE7A1BFB671A - 7263d3fd0b720dd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Nahoft.InvitedStatusView.importPublicKey() -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/InvitedStatusView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "7A1F69E9-8686-4ABB-98DA-EE7A1BFB671A - 7263d3fd0b720dd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Nahoft.InvitedStatusView.importPublicKey() -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/InvitedStatusView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "93">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43832F70-F3C0-4341-BDB4-6F43B496E7DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Views/MessageList/MessageListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "43832F70-F3C0-4341-BDB4-6F43B496E7DE - d4f341f668e6994"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 (Swift.Array&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) -&gt; () in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #8 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: SwiftUI.ToolbarContent, &#x3c4;_0_1: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0, &#x3c4;_0_1) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;Nahoft.SendMessageView&gt;)&gt; in Nahoft.MessageListView.body.getter : some"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/MessageListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "501">
+               </Location>
+               <Location
+                  uuid = "43832F70-F3C0-4341-BDB4-6F43B496E7DE - e6fb94e3e0d75787"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 (Swift.Array&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) -&gt; () in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #8 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: SwiftUI.ToolbarContent, &#x3c4;_0_1: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0, &#x3c4;_0_1) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;Nahoft.SendMessageView&gt;)&gt; in Nahoft.MessageListView.body.getter : some"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/MessageListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "530">
+               </Location>
+               <Location
+                  uuid = "43832F70-F3C0-4341-BDB4-6F43B496E7DE - d4f341f668e6994"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 (Swift.Array&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) -&gt; () in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #8 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: SwiftUI.ToolbarContent, &#x3c4;_0_1: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0, &#x3c4;_0_1) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;Nahoft.SendMessageView&gt;)&gt; in Nahoft.MessageListView.body.getter : some"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/MessageListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "255">
+               </Location>
+               <Location
+                  uuid = "43832F70-F3C0-4341-BDB4-6F43B496E7DE - e6fb94e3e0d75787"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 (Swift.Array&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) -&gt; () in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #8 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: SwiftUI.ToolbarContent, &#x3c4;_0_1: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0, &#x3c4;_0_1) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;Nahoft.SendMessageView&gt;)&gt; in Nahoft.MessageListView.body.getter : some"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/MessageListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B0DD11E-B667-4C31-A58B-3BDC6F878471"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Decoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "decode(image:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5B0DD11E-B667-4C31-A58B-3BDC6F878471 - e2c1935735b3db43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Decoder.decode(image: __C.UIImage) -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.UInt8&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Decoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "161">
+               </Location>
+               <Location
+                  uuid = "5B0DD11E-B667-4C31-A58B-3BDC6F878471 - 7a3b259459fc51e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[1] = Dead&gt; of Nahoft.Decoder.decode(image: __C.UIImage) -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.UInt8&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Decoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "9">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC5D62BE-BC84-4718-A201-9E7E6D9E99E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Decoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "decode(bitmap:size:messageSeed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC5D62BE-BC84-4718-A201-9E7E6D9E99E8 - acf710f1a5579a31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Decoder.decode(bitmap: __C.UIImage, size: Swift.Int, messageSeed: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Decoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "DC5D62BE-BC84-4718-A201-9E7E6D9E99E8 - acf710f1a5579a31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Decoder.decode(bitmap: __C.UIImage, size: Swift.Int, messageSeed: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Decoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "253">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F1F04C5-C792-412D-BF53-FFBA4AB13CA9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Views/MessageList/MessageListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDC0C534-E06C-4881-BF0C-939479729CCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Views/MessageList/MessageListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DDC0C534-E06C-4881-BF0C-939479729CCC - a475d43dbfedad88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in closure #2 (Swift.Array&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) -&gt; () in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #7 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: SwiftUI.ToolbarContent, &#x3c4;_0_1: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0, &#x3c4;_0_1) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;Nahoft.SendMessageView&gt;)&gt; in Nahoft.MessageListView.body.getter : some"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/MessageListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "251">
+               </Location>
+               <Location
+                  uuid = "DDC0C534-E06C-4881-BF0C-939479729CCC - 2626f6ccfd9ae4a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 (Swift.Array&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) -&gt; () in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #7 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: SwiftUI.ToolbarContent, &#x3c4;_0_1: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0, &#x3c4;_0_1) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;Nahoft.SendMessageView&gt;)&gt; in Nahoft.MessageListView.body.getter : some"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/MessageListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "DDC0C534-E06C-4881-BF0C-939479729CCC - d4f341f668e627e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 (Swift.Array&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) -&gt; () in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #7 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: SwiftUI.ToolbarContent, &#x3c4;_0_1: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0, &#x3c4;_0_1) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;Nahoft.SendMessageView&gt;)&gt; in Nahoft.MessageListView.body.getter : some"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/MessageListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "DDC0C534-E06C-4881-BF0C-939479729CCC - d4f341f668e627e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 (Swift.Array&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) -&gt; () in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #7 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: SwiftUI.ToolbarContent, &#x3c4;_0_1: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0, &#x3c4;_0_1) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;Nahoft.SendMessageView&gt;)&gt; in Nahoft.MessageListView.body.getter : some"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/MessageListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "194">
+               </Location>
+               <Location
+                  uuid = "DDC0C534-E06C-4881-BF0C-939479729CCC - e6fb94e3e0d75c6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 (Swift.Array&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) -&gt; () in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #7 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: SwiftUI.ToolbarContent, &#x3c4;_0_1: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0, &#x3c4;_0_1) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;Nahoft.SendMessageView&gt;)&gt; in Nahoft.MessageListView.body.getter : some"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/MessageListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "DDC0C534-E06C-4881-BF0C-939479729CCC - e6fb94e3e0d75c6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 (Swift.Array&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) -&gt; () in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #7 () -&gt; &lt;&lt;opaque return type of static SwiftUI.ToolbarContentBuilder.buildBlock&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: SwiftUI.ToolbarContent, &#x3c4;_0_1: SwiftUI.ToolbarContent&gt;(&#x3c4;_0_0, &#x3c4;_0_1) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;, Swift.Optional&lt;Nahoft.SendMessageView&gt;)&gt; in Nahoft.MessageListView.body.getter : some"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/MessageListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AC6BEB3-5983-4AFB-9229-B36393A60F08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Detector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(index:patchSize:mapped:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37528E45-C514-447E-8B54-DEDDB3541ACB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Patch.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(patchIndex:size:bitmap:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B5C1746-2F91-44F7-A761-4CE0AF4936C2"
+            shouldBeEnabled = "No"
+            condition = "brightness &gt; 0"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Patch.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "init(patchIndex:size:bitmap:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72C9748F-8890-4A5A-B789-EA73C7EA2438"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Encoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "encode(encrypted:cover:saveToGallery:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72C9748F-8890-4A5A-B789-EA73C7EA2438 - c6255a83f2278e2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage, saveToGallery: Swift.Bool) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "191">
+               </Location>
+               <Location
+                  uuid = "72C9748F-8890-4A5A-B789-EA73C7EA2438 - c6255a83f2278e2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage, saveToGallery: Swift.Bool) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "198">
+               </Location>
+               <Location
+                  uuid = "72C9748F-8890-4A5A-B789-EA73C7EA2438 - c6255a83f2278e2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage, saveToGallery: Swift.Bool) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "72C9748F-8890-4A5A-B789-EA73C7EA2438 - 1179020574ec4b96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Dead&gt; of Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage, saveToGallery: Swift.Bool) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92B6228A-AD33-4801-89AF-8B7A329C47CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Encoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "Encoder"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC35FDA3-03E5-44E6-AD97-6A1A89EC00B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Encoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "encode(encrypted:cover:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC35FDA3-03E5-44E6-AD97-6A1A89EC00B6 - 16e83e3628c47bb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "DC35FDA3-03E5-44E6-AD97-6A1A89EC00B6 - 16e83e3628c47bf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "DC35FDA3-03E5-44E6-AD97-6A1A89EC00B6 - 16e83e3628c47bd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "DC35FDA3-03E5-44E6-AD97-6A1A89EC00B6 - c2764410474631ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead&gt; of Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E944C6E-AEAF-4C07-8B60-894FD29F6A9F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Encoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "encode(cover:message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3E944C6E-AEAF-4C07-8B60-894FD29F6A9F - 67193e8fb2cb8a04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "223">
+               </Location>
+               <Location
+                  uuid = "3E944C6E-AEAF-4C07-8B60-894FD29F6A9F - 67193e8fb2cb8a27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "3E944C6E-AEAF-4C07-8B60-894FD29F6A9F - 67193e8fb2cb8a04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "3E944C6E-AEAF-4C07-8B60-894FD29F6A9F - c2764410474637da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead&gt; of Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "267">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87A81DFF-64BA-42AF-8929-733E17F36B0C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Encoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "scale(bitmap:bits:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87A81DFF-64BA-42AF-8929-733E17F36B0C - a4e6f2e288d9d5d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.scale(bitmap: __C.UIImage, bits: Swift.Int) -&gt; __C.UIImage"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "411">
+               </Location>
+               <Location
+                  uuid = "87A81DFF-64BA-42AF-8929-733E17F36B0C - a4e6f2e288d9d5d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.scale(bitmap: __C.UIImage, bits: Swift.Int) -&gt; __C.UIImage"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "87A81DFF-64BA-42AF-8929-733E17F36B0C - a4e6f2e288d9d5f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.scale(bitmap: __C.UIImage, bits: Swift.Int) -&gt; __C.UIImage"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "87A81DFF-64BA-42AF-8929-733E17F36B0C - 743ea149d01122a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead&gt; of Nahoft.Encoder.scale(bitmap: __C.UIImage, bits: Swift.Int) -&gt; __C.UIImage"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5CE5D77-1BF5-4005-A84C-5AE9026DA380"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Encoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "resizePreservingAspectRatio(originalSize:targetSizePixels:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9F239B8-16D6-4CE2-AD06-20B7816728B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Encoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "makeRules(cover:message:key:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9F239B8-16D6-4CE2-AD06-20B7816728B9 - 9734340848a2751b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.makeRules(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;, key: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Nahoft.Rule&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "374">
+               </Location>
+               <Location
+                  uuid = "B9F239B8-16D6-4CE2-AD06-20B7816728B9 - 9734340848a274fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.makeRules(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;, key: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Nahoft.Rule&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  uuid = "B9F239B8-16D6-4CE2-AD06-20B7816728B9 - 9734340848a2751b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.makeRules(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;, key: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Nahoft.Rule&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  uuid = "B9F239B8-16D6-4CE2-AD06-20B7816728B9 - 2a83a36aa942de97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Dead&gt; of Nahoft.Encoder.makeRules(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;, key: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Nahoft.Rule&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1288EDB-26A4-49B9-AECC-84A6A65C4CE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Swatch.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "bitsFromBytes(bytes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E1288EDB-26A4-49B9-AECC-84A6A65C4CE3 - de8848562fab5ef6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Nahoft.Swatch.bitsFromBytes(bytes: Swift.Array&lt;Swift.UInt8&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Swatch.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "210">
+               </Location>
+               <Location
+                  uuid = "E1288EDB-26A4-49B9-AECC-84A6A65C4CE3 - de8848562fab5ef6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Nahoft.Swatch.bitsFromBytes(bytes: Swift.Array&lt;Swift.UInt8&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Swatch.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "213">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BEC8C98-FFA9-4273-978C-DD4EAB7797B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Views/MessageList/SendMessageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "sendAsImage(cover:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8BEC8C98-FFA9-4273-978C-DD4EAB7797B5 - e5105866bbb04f97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.SendMessageView.sendAsImage(cover: __C.UIImage) -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "1179">
+               </Location>
+               <Location
+                  uuid = "8BEC8C98-FFA9-4273-978C-DD4EAB7797B5 - e5105866bbb04b3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.SendMessageView.sendAsImage(cover: __C.UIImage) -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "799">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3599867-DEBD-4890-87DF-E7093D55A965"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Views/MessageList/SendMessageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "sendAsImage(cover:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3599867-DEBD-4890-87DF-E7093D55A965 - e5105866bbb04f97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.SendMessageView.sendAsImage(cover: __C.UIImage) -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "1179">
+               </Location>
+               <Location
+                  uuid = "B3599867-DEBD-4890-87DF-E7093D55A965 - e5105866bbb04b1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.SendMessageView.sendAsImage(cover: __C.UIImage) -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "902">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77F73E68-5404-462E-B807-A37982A2A8BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Swatch.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "bitsFromBytes(bytes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "740EE989-9066-47D0-BA2A-95D6FA2D1AC7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Encoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "scale(bitmap:bits:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "740EE989-9066-47D0-BA2A-95D6FA2D1AC7 - a4e6f2e288d9d930"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.scale(bitmap: __C.UIImage, bits: Swift.Int) -&gt; __C.UIImage"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "2298">
+               </Location>
+               <Location
+                  uuid = "740EE989-9066-47D0-BA2A-95D6FA2D1AC7 - a4e6f2e288d9da9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.scale(bitmap: __C.UIImage, bits: Swift.Int) -&gt; __C.UIImage"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "2228">
+               </Location>
+               <Location
+                  uuid = "740EE989-9066-47D0-BA2A-95D6FA2D1AC7 - a4e6f2e288d9dabc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.scale(bitmap: __C.UIImage, bits: Swift.Int) -&gt; __C.UIImage"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "2228">
+               </Location>
+               <Location
+                  uuid = "740EE989-9066-47D0-BA2A-95D6FA2D1AC7 - 743ea149d0112def"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead&gt; of Nahoft.Encoder.scale(bitmap: __C.UIImage, bits: Swift.Int) -&gt; __C.UIImage"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "860">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "696A4624-29CC-4158-A46B-1981A49B39A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Encoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "encode(encrypted:cover:saveToGallery:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "696A4624-29CC-4158-A46B-1981A49B39A5 - c6255a83f2278eae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage, saveToGallery: Swift.Bool) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "286">
+               </Location>
+               <Location
+                  uuid = "696A4624-29CC-4158-A46B-1981A49B39A5 - c6255a83f2278eae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage, saveToGallery: Swift.Bool) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "696A4624-29CC-4158-A46B-1981A49B39A5 - 1179020574ec4b96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Dead&gt; of Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage, saveToGallery: Swift.Bool) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAA3E5D9-B487-4B35-ADA2-BBE9EC47C48E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/MappedBitmap.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(bitmap:key:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AAA3E5D9-B487-4B35-ADA2-BBE9EC47C48E - 8985c95bfb23fec0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.MappedBitmap.init(bitmap: __C.CGSize, key: Swift.Int, imageData: Swift.Array&lt;Swift.UInt8&gt;) -&gt; Nahoft.MappedBitmap"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/MappedBitmap.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "499">
+               </Location>
+               <Location
+                  uuid = "AAA3E5D9-B487-4B35-ADA2-BBE9EC47C48E - a70a9aaf8cad475c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.MappedBitmap.init(bitmap: __C.UIImage, key: Swift.Int) -&gt; Nahoft.MappedBitmap"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/MappedBitmap.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "343">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "543DCB3D-9EF0-492B-8F8B-CB28BEB157EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Patch.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init(patchIndex:size:bitmap:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D4A53FB-9DB7-423E-9FB7-A1A94A976EBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Encoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "makeRules(cover:message:key:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D4A53FB-9DB7-423E-9FB7-A1A94A976EBF - 9734340848a2893b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.makeRules(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;, key: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Nahoft.Rule&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1551">
+               </Location>
+               <Location
+                  uuid = "8D4A53FB-9DB7-423E-9FB7-A1A94A976EBF - 9734340848a28958"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.makeRules(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;, key: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Nahoft.Rule&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "1551">
+               </Location>
+               <Location
+                  uuid = "8D4A53FB-9DB7-423E-9FB7-A1A94A976EBF - 2a83a36aa94222f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Dead&gt; of Nahoft.Encoder.makeRules(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;, key: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Nahoft.Rule&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "663">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCE02520-D15F-430F-B265-DC4B66D8402A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Encoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "encode(cover:message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FCE02520-D15F-430F-B265-DC4B66D8402A - 67193e8fb2cb8bba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "FCE02520-D15F-430F-B265-DC4B66D8402A - 67193e8fb2cb8bba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "223">
+               </Location>
+               <Location
+                  uuid = "FCE02520-D15F-430F-B265-DC4B66D8402A - 67193e8fb2cb8b9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(cover: __C.UIImage, message: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "223">
+               </Location>
+               <Location
+                  uuid = "FCE02520-D15F-430F-B265-DC4B66D8402A - c276441047463747"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead&gt; of Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "329">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AB3A69E-918E-423C-B996-38A06B4B2E45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Decoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "decode(bitmap:size:messageSeed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6AB3A69E-918E-423C-B996-38A06B4B2E45 - acf710f1a5579ef6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Decoder.decode(bitmap: __C.UIImage, size: Swift.Int, messageSeed: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Decoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "1569">
+               </Location>
+               <Location
+                  uuid = "6AB3A69E-918E-423C-B996-38A06B4B2E45 - a2eefd2e4ee931a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Dead&gt; of Nahoft.Decoder.decode(bitmap: __C.UIImage, size: Swift.Int, messageSeed: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Decoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "503">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8C9A837-A3FF-474C-87D7-4E880E3FF479"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Decoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "decode(bitmap:size:messageSeed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8C9A837-A3FF-474C-87D7-4E880E3FF479 - acf710f1a557997a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Decoder.decode(bitmap: __C.UIImage, size: Swift.Int, messageSeed: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Decoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1515">
+               </Location>
+               <Location
+                  uuid = "E8C9A837-A3FF-474C-87D7-4E880E3FF479 - a2eefd2e4ee931a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Dead&gt; of Nahoft.Decoder.decode(bitmap: __C.UIImage, size: Swift.Int, messageSeed: Swift.Int) -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Decoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "503">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C00B67B7-01A6-407F-BCE4-51B3A575FE3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Decoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "decode(bitmap:size:messageSeed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29124227-1508-4C1F-9AA9-9C1C683AA33D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Views/MessageList/SendMessageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "sendAsImage(cover:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29124227-1508-4C1F-9AA9-9C1C683AA33D - e5105866bbb04c34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.SendMessageView.sendAsImage(cover: __C.UIImage) -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "1373">
+               </Location>
+               <Location
+                  uuid = "29124227-1508-4C1F-9AA9-9C1C683AA33D - e5105866bbb04bb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.SendMessageView.sendAsImage(cover: __C.UIImage) -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/MessageList/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "1179">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8B82585-02CA-4757-BCBB-06CDCB10259F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/Encoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "encode(encrypted:cover:saveToGallery:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8B82585-02CA-4757-BCBB-06CDCB10259F - c6255a83f2278f32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage, saveToGallery: Swift.Bool) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "350">
+               </Location>
+               <Location
+                  uuid = "E8B82585-02CA-4757-BCBB-06CDCB10259F - c6255a83f2278f32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage, saveToGallery: Swift.Bool) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "218">
+               </Location>
+               <Location
+                  uuid = "E8B82585-02CA-4757-BCBB-06CDCB10259F - 1179020574ec4a0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Dead&gt; of Nahoft.Encoder.encode(encrypted: Swift.Array&lt;Swift.UInt8&gt;, cover: __C.UIImage, saveToGallery: Swift.Bool) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Swatch/Encoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EACB2D8E-F821-43A7-AF35-88764F2268C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Swatch/ColorExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "brightness(rawData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04960FB5-1F16-4C1A-9707-0B8F674108BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/NahoftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81157DE4-CCCA-46B2-A1FB-647C20A562B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Views/FriendListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "81157DE4-CCCA-46B2-A1FB-647C20A562B8 - f45fdb80f0453964"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (SwiftUI.ScenePhase) -&gt; () in Nahoft.FriendListView.body.getter : some"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/FriendListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "81157DE4-CCCA-46B2-A1FB-647C20A562B8 - f45fdb80f0453985"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (SwiftUI.ScenePhase) -&gt; () in Nahoft.FriendListView.body.getter : some"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadrasadri/Downloads/Nahoft/Nahoft/Nahoft/Views/FriendListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "338">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0F8F764-232F-4D2E-A941-2BFAA3D1503E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Views/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "login()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
