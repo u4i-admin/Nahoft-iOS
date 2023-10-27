@@ -129,10 +129,6 @@ struct LoginView: View {
     
     func getLockoutMinutes() -> Int {
         if failedLoginAttempts >= 9 {
-            clearAllData(secondaryPass: false)
-            withAnimation {
-                authentication.updateAuth(status: .NotRequired)
-            }
             return 1000
         } else if failedLoginAttempts == 8 {
             return 15
