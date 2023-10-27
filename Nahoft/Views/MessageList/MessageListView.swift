@@ -11,6 +11,7 @@ import PhotosUI
 struct MessageListView: View {
     @Environment(\.dismiss) var dismiss
     @Environment(\.layoutDirection) var direction
+    @Environment(\.colorScheme) var colorScheme
     @ObservedObject var passedFriend: Friend
     @State var encodedMessage = ""
     @State var decodedMessage = ""
@@ -115,7 +116,21 @@ struct MessageListView: View {
                     if passedFriend.status == FriendStatus.Approved.rawValue || passedFriend.status == FriendStatus.Verified.rawValue {
                         ToolbarItem {
                             PhotosPicker(selection: $selectedItems, maxSelectionCount: 1, matching: .images, photoLibrary: .shared()) {
-                                Image(systemName: "square.and.arrow.down.on.square")
+                                ZStack {
+                                    Image(systemName: "photo")
+                                    
+                                    VStack {
+                                        Spacer()
+                                        
+                                        HStack {
+                                            Spacer()
+                                            
+                                            Image(systemName: "arrow.down.circle.fill")
+                                                .background(Color(UIColor.systemBackground))
+                                                .font(.system(size: 10))
+                                        }
+                                    }
+                                }
                             }
                             .onChange(of: selectedItems) { newValue in
                                 for item in newValue {
@@ -134,7 +149,21 @@ struct MessageListView: View {
                             Button {
                                 showImportText.toggle()
                             } label: {
-                                Image(systemName: "square.and.arrow.down")
+                                ZStack {
+                                    Image(systemName: "text.bubble")
+                                    
+                                    VStack {
+                                        Spacer()
+                                        
+                                        HStack {
+                                            Spacer()
+                                            
+                                            Image(systemName: "arrow.down.circle.fill")
+                                                .background(Color(UIColor.systemBackground))
+                                                .font(.system(size: 10))
+                                        }
+                                    }
+                                }
                             }
                         }
                     }
