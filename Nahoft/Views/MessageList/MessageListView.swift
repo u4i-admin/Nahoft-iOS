@@ -114,36 +114,36 @@ struct MessageListView: View {
                     }
                     
                     if passedFriend.status == FriendStatus.Approved.rawValue || passedFriend.status == FriendStatus.Verified.rawValue {
-                        ToolbarItem {
-                            PhotosPicker(selection: $selectedItems, maxSelectionCount: 1, matching: .images, photoLibrary: .shared()) {
-                                ZStack {
-                                    Image(systemName: "photo")
-                                    
-                                    VStack {
-                                        Spacer()
-                                        
-                                        HStack {
-                                            Spacer()
-                                            
-                                            Image(systemName: "arrow.down.circle.fill")
-                                                .background(Color(UIColor.systemBackground))
-                                                .font(.system(size: 10))
-                                        }
-                                    }
-                                }
-                            }
-                            .onChange(of: selectedItems) { newValue in
-                                for item in newValue {
-                                    Task {
-                                        if let data = try? await item.loadTransferable(type: Data.self) {
-                                            imageData = UIImage(data: data)
-                                            let decoder = Decoder()
-                                            let _ = decoder.decode(image: imageData!)
-                                        }
-                                    }
-                                }
-                            }
-                        }
+//                        ToolbarItem {
+//                            PhotosPicker(selection: $selectedItems, maxSelectionCount: 1, matching: .images, photoLibrary: .shared()) {
+//                                ZStack {
+//                                    Image(systemName: "photo")
+//                                    
+//                                    VStack {
+//                                        Spacer()
+//                                        
+//                                        HStack {
+//                                            Spacer()
+//                                            
+//                                            Image(systemName: "arrow.down.circle.fill")
+//                                                .background(Color(UIColor.systemBackground))
+//                                                .font(.system(size: 10))
+//                                        }
+//                                    }
+//                                }
+//                            }
+//                            .onChange(of: selectedItems) { newValue in
+//                                for item in newValue {
+//                                    Task {
+//                                        if let data = try? await item.loadTransferable(type: Data.self) {
+//                                            imageData = UIImage(data: data)
+//                                            let decoder = Decoder()
+//                                            let _ = decoder.decode(image: imageData!)
+//                                        }
+//                                    }
+//                                }
+//                            }
+//                        }
                         
                         ToolbarItem {
                             Button {
