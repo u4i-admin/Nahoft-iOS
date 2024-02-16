@@ -7,6 +7,7 @@
 
 import SwiftUI
 import BackgroundTasks
+import TipKit
 import FirebaseCore
 
 class AppDelegate: NSObject, UIApplicationDelegate {
@@ -31,12 +32,6 @@ struct NahoftApp: App {
     @State private var showSecureWindow: Bool = false
     @Environment(\.scenePhase) var scenePhase
     
-//    init() {
-//        BGTaskScheduler.shared.register(forTaskWithIdentifier: "org.nahoft.appLock", using: nil) { task in
-//            TimeChangeService.handleAppRefresh(task: task as! BGAppRefreshTask)
-//        }
-//    }
-
     var body: some Scene {
         WindowGroup {
             ZStack {
@@ -44,6 +39,11 @@ struct NahoftApp: App {
                     FriendListView()
                         .environment(\.managedObjectContext, persistenceController.container.viewContext)
                         .environmentObject(authentication)
+                        .task {
+//                            try? Tips.resetDatastore()
+//                            Tips.showTipsForTesting([ImportMessageTip.self])
+                            try? Tips.configure()
+                        }
                 } else {
                     LoginView()
                         .environment(\.managedObjectContext, persistenceController.container.viewContext)
@@ -82,13 +82,13 @@ struct NahoftApp: App {
     
     func scheduleAppRefresh() {
         if authentication.loginStatus == .LoggedIn {
-        let request = BGAppRefreshTaskRequest(identifier: "org.nahoft.appLock")
-        request.earliestBeginDate = Date(timeIntervalSinceNow: 3 * 60)
-        do {
-            try BGTaskScheduler.shared.submit(request)
-            print("Background Task Scheduled!")
-        } catch(let error) {
-            print("Scheduling Error \(error.localizedDescription)")
+            let request = BGAppRefreshTaskRequest(identifier: "org.nahoft.appLock")
+            request.earliestBeginDate = Date(timeIntervalSinceNow: 3 * 60)
+            do {
+                try BGTaskScheduler.shared.submit(request)
+                print("Background Task Scheduled!")
+            } catch(let error) {
+                print("Scheduling Error \(error.localizedDescription)")
             }
         }
     }

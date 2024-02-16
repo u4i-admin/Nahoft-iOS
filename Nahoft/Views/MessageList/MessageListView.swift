@@ -22,6 +22,8 @@ struct MessageListView: View {
     @State private var selectedItems: [PhotosPickerItem] = []
     @State private var imageData: UIImage? = nil
     
+    let importMessageTip = ImportMessageTip()
+    
     var body: some View {
         VStack {
             ScrollViewReader { value in
@@ -165,6 +167,7 @@ struct MessageListView: View {
                                     }
                                 }
                             }
+                            .popoverTip(importMessageTip)
                         }
                     }
                 }
