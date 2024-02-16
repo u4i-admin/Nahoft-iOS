@@ -2,12 +2,6 @@
 "\"Nahoft\" is one of the apps that has been created in the Iran Cubator 2 program and under the supervision of the \"United for Iran\" organization. United for Iran is a human rights organization based in Berkeley, California. Its goal is to promote civil liberties in Iran, defend human rights, support civil society, and encourage citizens to participate through technology." = "«نهفت» از جمله تولیداتی است که در برنامه ایران کوباتور۲ و تحت نظارت سازمان «اتحاد برای ایران» تهیه شده است. سازمان اتحاد برای ایران یک نهاد حقوق‌بشری است که مرکز آن در شهر برکلی، ایالت کالیفرنیا قرار دارد.  هدف این نهاد گسترش آزادی‌های مدنی در ایران، دفاع از حقوق بشر، حمایت از جامعه مدنی و ترغیب شهروندان به مشارکت از طریق فناوری است.";
 
 /* No comment provided by engineer. */
-"“Nahoft” is not a messaging app. It is a tool for encryption. Nahoft is an offline software for encrypting text messages on Android phones.\nEncrypting your text messages means that even if your message gets intercepted by a third party, that party can not read it. The only person that can read your message is the one with whom you exchanged your public key.\nNahoft is offline, which means you do not need to be connected to the internet to encrypt your messages.\nNahoft only encrypts text messages. Currently, it does not provide encrypted voice and video messages.\nNahoft can encrypt text messages as text. It also can encrypt them as a photo (Steganography.) You can send an encrypted text message or a photo containing a message via another channel that allows you to send the file (for example, SMS, MMS, or a messaging app that allows you to send the file unchanged.) So, the other person, after receiving the message, transfers the encrypted text or photo to Nahoft and reads it. \n For the time being, Nahoft can be installed on phones that use the Android operating system.\nNahoft is not a messaging app. It only encrypts the user’s text messages. The user can send the encrypted message to another one through one of the messaging apps (in an insecure network or even using an insecure messaging app.) The other person should be using Nahoft as well. Both should have already exchanged the public keys with one another to enter the messages into this software and read the encrypted messages. Nahoft uses public keys that can be shared with others. It also creates a private key hidden in the app to read the sent messages between two users.\nNahoft’s goal is to make it possible for users to send secure messages even through insecure messaging apps and networks. It means that if a user does not have access to secure internet or can not use secure messaging apps (in the case of internet censorship, filtering, and total internet shutdown) and only have access to insecure messaging apps and networks inside the country, even in this case, the users can encrypt the text messages and send them in the network. So, even if the message gets intercepted, it will still not be intelligible since it is encrypted. \nNote: Public keys (also the private key) change whenever you delete and reinstall the app, as well as each time you change your phone and reinstall the app. So, each time you change your phone or delete the app and reinstall it, you need to exchange the keys with your friends.\nImportant: Nahoft is open-source software, and everyone can have access to its code." = "نهفت یک پیام‌رسان نیست، بلکه ابزاری برای رمزنگاری است. «نهفت» نرم‌افزار آفلاین برای رمزنگاری پیام‌های متنی در گوشی‌های اندرویدی است.\nرمزنگاری کردن پیام متنی یعنی حتی اگر پیام ارسالی شما در میان راه توسط فرد سومی دیده شود، برای آن شخص سوم قابل خواندن نخواهد بود و تنها شخصی که شما کلید عمومی خود را با او رد و بدل کرده‌اید، می‌تواند پیام مورد نظر را بخواند.\nاین نرم‌افزار، آفلاین است، یعنی برای تبدیل پیام‌های متنی به پیام‌های رمزگذاری شده، نیازی به اینترنت آنلاین ندارد و می‌تواند بصورت مستقل و بدون اینترنت جهانی، پیام‌های نوشتاری را رمزنگاری کند.\n«نهفت» تنها پیام‌های متنی را رمزنگاری می‌کند و در حال حاضر امکان رمزنگاری پیام‌های صوتی و تصویری در آن فراهم نیست.\nنهفت می‌تواند پیام‌های متنی را هم بصورت یک متن رمزنگاری کند و هم می‌تواند آن را در داخل یک عکس، که شما انتخاب می‌کنید، پنهان کند. شما می‌توانید پیام متنی یا عکس حاوی پیام را از طریق دیگری که امکان ارسال فایل را فراهم می‌کند (مثلا ایمیل، یا اس‌ام‌اس یا ام‌ام‌اس، یا یک پیام‌رسان که امکان ارسال فایل بدون تغییر را فراهم می‌کند) بفرستید تا طرف مقابل نیز پس از دریافت، متن یا عکس رمزنگاری شده را به نهفت منتقل کند و پیام را بخواند.\n«نهفت»، فعلا در سیستم عامل اندروید و در گوشی‌های موبایلی که از این سیستم عامل استفاده می‌کنند، قابل نصب است.\nنهفت یک پیام‌رسان نیست، بلکه تنها پیام‌های متنی کاربر را رمزنگاری می‌کند و کاربر می‌تواند پیام رمز‌نگاری شده را از طریق یکی از پیام رسان‌های خود (در شبکه‌ای ناامن و حتی با یک پیام‌رسان ناامن) به فرد دیگری ارسال کند که او نیز  از نهفت استفاده می‌کند. آنها باید  قبلا با هم کلیدهای عمومی خود را همرسان و جابجا کرده باشند تا پیام‌ها را بعد از دریافت وارد این نرم‌افزار کنند و متن نهایی را در آنجا بخوانند. نهفت از کلیدهای عمومی که قابل همرسانی با دیگران است، استفاده می‌کند و کلیدی خصوصی می‌سازد که در داخل نرم‌افزار پنهان شده و می‌تواند پیام‌های رد و بدل شده بین دو کاربر را بخواند.\nهدف «نهفت» این است که امکان ارسال پیام امن برای کاربران حتی در پیام‌رسان‌ها و شبکه‌های ناامن فراهم شود. به این معنی که اگر کاربری در شرایط خاص، دسترسی به شبکه امن اینترنت جهانی نداشت، و یا استفاده از پیام‌رسان‌های امن برای او امکان‌پذیر نبود (فرض کنید در شرایط سانسور، فیلترینگ و یا قطع کامل شبکه جهانی اینترنت) و تنها به پیام‌رسان‌های ناامن و یا شبکه‌های ناامن داخلی دسترسی داشت، حتی در اینصورت هم بتواند پیام خود را رمزنگاری کرده و در داخل این شبکه ارسال کند. در این صورت حتی اگر پیام او در میان راه توسط فرد سومی دیده شود، باز هم به علت آنکه رمزنگاری شده است، قابل خواندن نخواهد بود.\nتوجه: با هر بار پاک کردن کامل نرم‌افزار نهفت و نصب دوباره آن و همچنین با هر بار تغییر گوشی شما و در نتیجه نصب دوباره نهفت، کلیدهای عمومی (و نیز کلید خصوصی) تغییر می‌کند. بنابراین هربار که گوشی شما تغییر می‌کند و یا نهفت را پاک کرده و دوباره نصب می‌کنید، باید دوباره با دوستان خود این کلیدها را جابجا کنید.\nمهم: نهفت یک نرم‌افزار  متن باز (اوپن‌سورس) است و همه می‌توانند به کدهای برنامه‌نویسی آن دسترسی داشته باشند.";
-
-/* No comment provided by engineer. */
-"“Nahoft” is not a messaging app. It is a tool for encryption. Nahoft is an offline software for encrypting text messages on Android phones.\nEncrypting your text messages means that even if your message gets intercepted by a third party, that party can not read it. The only person that can read your message is the one with whom you exchanged your public key…" = "نهفت یک پیام‌رسان نیست، بلکه ابزاری برای رمزنگاری است. «نهفت» نرم‌افزار آفلاین برای رمزنگاری پیام‌های متنی در گوشی‌های اندرویدی است.\nرمزنگاری کردن پیام متنی یعنی حتی اگر پیام ارسالی شما در میان راه توسط فرد سومی دیده شود، برای آن شخص سوم قابل خواندن نخواهد بود …";
-
-/* No comment provided by engineer. */
 "A security layer for sending messages over insecure channels \n Fully offline. Nahoft operates without servers \n Destruction code. Instantly erase your data." = "یک لایه امنیتی برای ارسال پیام‌ از طریق کانال‌های ناامن \nکاملاً آفلاین. نهفت بدون سرور عمل می‌کند. \nکد نابودی. بلافاصله داده‌هایتان را پاک کنید.";
 
 /* No comment provided by engineer. */
@@ -50,6 +44,9 @@
 "Destruction Code" = "کد نابودی";
 
 /* No comment provided by engineer. */
+"Done" = "تمام";
+
+/* No comment provided by engineer. */
 "Edit contact name" = "ویرایش نام دوست";
 
 /* No comment provided by engineer. */
@@ -65,22 +62,22 @@
 "Help" = "کمک";
 
 /* No comment provided by engineer. */
-"How to manually receive encrypted text" = "نحوه دریافت دستی متن رمزگذاری شده";
+"How to receive encrypted images" = "نحوه دریافت عکس رمزگذاری شده";
 
 /* No comment provided by engineer. */
-"How to manually send encrypted text" = "نحوه ارسال دستی متن رمزگذاری شده";
-
-/* No comment provided by engineer. */
-"How to receive encrypted images" = "نحوه دریافت دستی عکس رمزگذاری شده";
-
-/* No comment provided by engineer. */
-"How to send encrypted images" = "نحوه ارسال دستی عکس رمزگذاری شده";
+"How to send encrypted images" = "نحوه ارسال عکس رمزگذاری شده";
 
 /* No comment provided by engineer. */
 "Import" = "وارد کردن";
 
 /* No comment provided by engineer. */
 "Import Message" = "وارد کردن پیام";
+
+/* No comment provided by engineer. */
+"Import message?" = "پیام وارد شود؟";
+
+/* No comment provided by engineer. */
+"Imported successfully" = "با موفقیت وارد شد";
 
 /* No comment provided by engineer. */
 "Importing to Nahoft through share option" = "وارد کردن اطلاعات به نهفت از طریق گزینه‌ اشتراک گذاری";
@@ -90,9 +87,6 @@
 
 /* No comment provided by engineer. */
 "Iranian and non-Iranian experts with work experience in big tech companies came together and created Nahoft with the support of the United4Iran Organization." = "کارشناسان ایرانی و غیرایرانی با سابقه کار در شرکت‌های بزرگ فناوری، گرد هم آمدند و با حمایت سازمان اتحاد برای ایران نهفت را ایجاد کردند.";
-
-/* No comment provided by engineer. */
-"Just like other apps, Nahoft lets you share a text or photo from your gallery or mobile memory by selecting Nahoft from the list of suggested apps. Choosing Nahoft will take you to Nahoft's friend list, where you can select who you want to send a picture to." = "کاربر نهفت همچون دیگر نرم‌افزارهای موبایل، این امکان را داد که اگر بخواهد از داخل گالری یا حافظه‌ی موبایل خود متن یا عکسی را به اشتراک بگذارد، نهفت را از میان نرم‌افزارهای پیشنهادی انتخاب کند. با انتخاب نهفت، شما به بخش لیست دوستان در نهفت هدایت می‌شوید و می‌توانید دوست مورد نظر خود برای ارسال عکس یا متن را انتخاب کنید.";
 
 /* No comment provided by engineer. */
 "Keep your conversations private and secure with Nahoft, the end-to-end encrypted communication app." = "با رمزنگاری پیام‌هایتان توسط نهفت؛ مکالمات خود را خصوصی و ایمن نگه دارید.";
@@ -131,6 +125,9 @@
 "Nickname" = "نام";
 
 /* No comment provided by engineer. */
+"No" = "خیر";
+
+/* No comment provided by engineer. */
 "No public key has been exchanged between you and %@ yet." = "هنوز هیچ کلید عمومی بین شما و %@ رد و بدل نشده است.";
 
 /* No comment provided by engineer. */
@@ -143,7 +140,7 @@
 "Passcode" = "رمز عبور";
 
 /* No comment provided by engineer. */
-"Please click the button bellow to submit your public key" = "لطفا دکمه زیر لمس کنید تا کلید عمومی شما برای دوستتان ارسال  شود.";
+"Please click the button bellow to submit your public key" = "لطفا دکمه زیر را لمس کنید تا کلید عمومی شما برای دوستتان ارسال  شود.";
 
 /* No comment provided by engineer. */
 "Public Key" = "کلید عمومی";
@@ -164,6 +161,12 @@
 "Search..." = "جستجو";
 
 /* No comment provided by engineer. */
+"Select Sender" = "انتخاب فرستنده";
+
+/* No comment provided by engineer. */
+"Send Message" = "ارسال پیام";
+
+/* No comment provided by engineer. */
 "Setting" = "تنظیمات";
 
 /* No comment provided by engineer. */
@@ -174,6 +177,9 @@
 
 /* No comment provided by engineer. */
 "The option to log out will only be displayed if you have set a 'password.' By clicking on this option, you will immediately get logged out of Nahoft. If you don't use the logout option, Nahoft will lock itself after a few minutes of inactivity, and you will need your password to enter it." = "گزینه‌ی خروج تنها در صورتی نمایش داده می‌وشد که شما برای نهفت یک \"رمز عبور\" تعیین کرده باشید. با کلیک بر روی این گزینه بلافاصله از نهفت خارج می‌شوید. اگر شما از گزینه خروج استفاده نکنید، نهفت بعد از چند دقیقه عدم استفاده، خود بخود قفل می‌شود و شما برای ورود به آن نیازمند رمز خود خواهید بود.";
+
+/* No comment provided by engineer. */
+"The text you are attempting to send has already been encrypted. Would you like to decrypt it instead of sending it?" = "متنی که شما برای ارسال وارد کرده اید، یک متن رمزگذاری شده است. می خواهید به جای ارسال، آنرا رمزگشایی کنید؟";
 
 /* No comment provided by engineer. */
 "This software utilizes the well-known library libsodium and the Asymmetric Encryption with Authentication method for encryption and decryption. Each user has a private key and a public key. When User 1 wants to send a message to User 2, they use their own private key and User 2's public key for encryption. The generated message has only two possible ways for decryption:\n. Using User 1's private key, who generated the message, and User 2's public key.\n. Using User 2's private key, who is the recipient of the message, and User 1's public key.\nTherefore, in order for your friends to send you a message, they must have your public key. If you expose your public key to the public, it will not pose any security issues. You can see your public key from the setting." = "نهفت چگونه کار می کند؟\nاین نرم‌افزار از کتابخانه معتبر libsodium استفاده می‌کند و از روش رمزگذاری و رمزگشایی با امضای دوطرفه (Asymmetric Encryption with Authentication) بهره می‌برد. هر کاربر دارای یک کلید خصوصی و یک کلید عمومی است. زمانی که کاربر ۱ می‌خواهد پیامی را به کاربر ۲ ارسال کند، از کلید خصوصی خود و کلید عمومی کاربر ۲ برای رمزگذاری استفاده می‌کند. پیام تولید شده فقط دو راه برای رمزگشایی دارد:\nاستفاده از کلید خصوصی کاربر ۱ که پیام را تولید کرده است و کلید عمومی کاربر ۲.\nاستفاده از کلید خصوصی کاربر ۲ که دریافت کننده پیام است و کلید عمومی کاربر ۱\nبنابراین، دوستان شما برای ارسال پیام به شما باید کلید عمومی شما را داشته باشند. اگر شما کلید عمومی خود را در دسترس عموم قرار دهید، هیچ مشکل امنیتی ای وجود نخواهد داشت.\nشما می‌توانید کلید عمومی خودتان را از بخش تنظمیات مشاهده کنید.";
@@ -200,10 +206,7 @@
 "Title" = "عنوان";
 
 /* No comment provided by engineer. */
-"To add a new friend; Click on the plus +  icon on home page. Two options will appear: \n Option 1: Add a new contact from the contact list. \n By selecting this option, you will be directed to the \"contact list.\" If you have given Nahoft permission to access your phone's contacts, you can choose the contact you wish to add to your friends list from there. \n Option 2: Create a new contact. \n By choosing this option, a new window will open where you can enter your friend's name and phone number. Adding a phone number is optional, but if you plan to use the \"Use SMS by default\" feature, it's important to include the phone number. Otherwise, you'll need to manually send and receive messages to contacts without their phone numbers. For instructions on manual messaging, refer to the Chat Help section." = "برای افزودن یک دوست جدید؛ بر روی آیکن به علاوه + بزنید. دو گزینه پدیدار می‌شود:\nگزینه 1، افزودن مخاطب جدید از لیست مخاطبین.\nبا انتخاب این گزینه، به “لیست مخاطبین” هدایت می‌شوید و اگر به نهفت اجازه دسترسی به دفترچه تلفن داده باشید، از آنجا می‌توانید مخاطب مورد نظر خود را برای افزودن به لیست دوستان انتخاب کنید.\nگزینه 2، ایجاد مخاطب جدید\nبا انتخاب این گزینه، یک پنجره جدید باز می‌شود که می‌توانید نام و شماره تلفن دوست خود را وارد کنید. افزودن شماره تلفن اختیاری است اما اگر می‌خواهید از ویژگی “ استفاده از پیامک (SMS) به صورت پیش فرض” استفاده کنید باید شماره تلفن را نیز وارد کنید. در غیر این صورت، ارسال و دریافت پیام‌های مخاطبین بدون شماره تلفن باید به شکل دستی انجام شود. برای یادگیری ارسال و دریافت پیام به شکل دستی به بخش راهنمای چت بروید.";
-
-/* No comment provided by engineer. */
-"To add a new friend; Click on the plus +  icon on home page. Two options will appear: \n Option 1: Add a new contact from the contact list. \n Option 2: Create a new contact." = "برای افزودن یک دوست جدید؛ بر روی آیکن به علاوه + بزنید. دو گزینه پدیدار می‌شود:\nگزینه 1، افزودن مخاطب جدید از لیست مخاطبین.\nگزینه 2، ایجاد مخاطب جدید";
+"To add a new friend; Click on the plus +  icon on home page. Two options will appear: \n Option 1: Add a new contact from the contact list. \n Option 2: Create a new contact." = "برای افزودن یک دوست جدید؛ بر روی آیکن به علاوه + بزنید.\nبا انتخاب این گزینه، یک پنجره جدید باز می‌شود که می‌توانید نام دوست خود را وارد کنید.";
 
 /* No comment provided by engineer. */
 "To decrypt and read an encrypted text, you need to follow these steps:\n1. Make sure you know who sent the message and that you have previously exchanged public keys.\n2. Copy the received encrypted text.\n3. Go to the chat page of the person whose message you want to decrypt.\n4. Click on the import file icon located at the top right of the page. A window will open.\n5. Paste the text into the window and click the \"Insert Text\" option.\n6. The decrypted message will be readable on the chat page." = "برای خواندن متن رمزنگاری شده، این شرط باید رعایت شود:\nشما می‌دانید که پیام را چه کسی ارسال کرده و قبلا کلیدهای عمومی خود را رد و بدل کرده‌اید.\nسپس  پیام متنی رمزنگاری شده دریافت شده را کپی کرده و در نهفت به صفحه چت شخصی که پیامش را میخواهید رمزگشایی کنید بروید. سمت راست بالای صفحه روی آیکن سند یا داکیومنت کلیک کنید. یک پنجره باز می‌شود. متن را در آنجا بگذارید. و گزینه‌ی \"وارد کردن متن\" کلیک کنید. پیام رمگشایی شده در  صفحه‌ی چت قابل خواندن است.";
@@ -212,28 +215,25 @@
 "To decrypt and read an encrypted text, you need to follow these steps:\n1. Make sure you know who sent the message and that you have previously exchanged public keys.\n2. Copy the received encrypted text…" = "برای خواندن متن رمزنگاری شده، این شرط باید رعایت شود:\nشما می‌دانید که پیام را چه کسی ارسال کرده و قبلا کلیدهای عمومی خود را رد و بدل کرده‌اید.\nسپس  پیام متنی رمزنگاری شده دریافت شده را کپی کرده و در نهفت به صفحه چت شخصی که پیامش را میخواهید رمزگشایی کنید بروید.…";
 
 /* No comment provided by engineer. */
-"To delete a contact, follow these steps: \n Hold your finger on the name of the desired friend for a few seconds. \n After a few seconds, you will see a message asking if you are sure you want to delete your friend. By selecting the \"Yes\" option, your friend will be deleted." = "برای حذف یک مخاطب، مراحل زیر را دنبال کنید:\nانگشت خود را روی نام دوست مورد نظر چند ثانیه نگه دارید.\nپس از چند ثانیه، پیامی خواهید دید که از شما می‌پرسد آیا مطمئن هستید که می‌خواهید دوست خود را حذف کنید یا خیر. با انتخاب گزینه \"بله\" دوست شما حذف می‌شود.";
+"To import messages send by your friends, use this button" = "برای وارد کردن پیام ارسال شده از طرف دوست خود از این دکمه استفاده کنید";
 
 /* No comment provided by engineer. */
-"To edit the name or phone number of your friend, follow these steps: \n Click once on the name of your friend to go to the chat page. \n Once inside the chat page, click again on the name of your friend. \n A new page will open where you can edit the name and phone number of your friend." = "برای ویرایش نام و یا شماره تلفن دوستتان این مراحل را دنبال کنید: \nبا یک بار کلیک بر روی نام دوست خود به صفحه چت بروید. \nاز داخل صفحه‌ی چت دوباره روی نام دوست خود کلیک کنید.\nیک صفحه باز می‌شود که در آنجا می‌توانید نام و شماره تلفن دوست خود را ویرایش کنید.";
-
-/* No comment provided by engineer. */
-"To manually decrypt an encrypted photo, you need to follow these two conditions:\nCondition 1: You know who sent the photo and have previously exchanged public keys.\nCondition 2: The sent photo has been sent to you as a file, and you have saved it as a file on your mobile device. If, for example, you receive a photo on Telegram that has been compressed by Telegram, it cannot be decrypted.\nAssuming you have met the above two conditions, go to the chat page of the person whose message you want to decrypt. On the top right side of the page, click on the image icon. A pop-up window will appear, allowing you to browse and select the desired photo from your mobile device. The decrypted message will be readable in the chat page." = "برای رمزگشایی دستی عکس رمزنگاری شده، این دو شرط باید رعایت شود:\nشرط اول:  شما می‌دانید که عکس را چه کسی ارسال کرده و قبلا کلیدهای عمومی خود را رد و بدل کرده‌اید.\nشرط دوم: عکس ارسال شده به صورت فایل برای شما ارسال شده و شما آن را به صورت فایل در موبایل خود ذخیره کرده‌اید.  اگر برای مثال در تلگرام عکسی دریافت کرده‌اید که توسط تلگرام حجم آن کاهش پیدا کرده، این عکس را نمی‌شود رمزگشایی کرد.\nبا فرض رعایت دو شرط بالا، در نهفت به صفحه چت شخصی که پیامش را میخواهید رمزگشایی کنید بروید. سمت راست بالای صفحه روی آیکن عکس کلیک کنید. یک صفحه بالا می‌آید، از اینجا می‌توانید عکس مورد نظر را از روی موبایل پیدا کرده و روی نهفت بارگذاری کنید.  پیام رمگشایی شده در  صفحه‌ی چت قابل خواندن است.";
+"To manually decrypt an encrypted photo, you need to follow these two conditions:\nCondition 1: You know who sent the photo and have previously exchanged public keys.\nCondition 2: The sent photo has been sent to you as a file, and you have saved it as a file on your mobile device. If, for example, you receive a photo on Telegram that has been compressed by Telegram, it cannot be decrypted.\nAssuming you have met the above two conditions, go to the chat page of the person whose message you want to decrypt. On the top right side of the page, click on the image icon. A pop-up window will appear, allowing you to browse and select the desired photo from your mobile device. The decrypted message will be readable in the chat page." = "برای رمزگشایی عکس رمزنگاری شده، این دو شرط باید رعایت شود:\nشرط اول:  شما می‌دانید که عکس را چه کسی ارسال کرده و قبلا کلیدهای عمومی خود را رد و بدل کرده‌اید.\nشرط دوم: عکس ارسال شده به صورت فایل برای شما ارسال شده و شما آن را به صورت فایل در موبایل خود ذخیره کرده‌اید.  اگر برای مثال در تلگرام عکسی دریافت کرده‌اید که توسط تلگرام حجم آن کاهش پیدا کرده، این عکس را نمی‌شود رمزگشایی کرد.\nبا فرض رعایت دو شرط بالا، در نهفت به صفحه چت شخصی که پیامش را میخواهید رمزگشایی کنید بروید. سمت راست بالای صفحه روی آیکن عکس کلیک کنید. یک صفحه بالا می‌آید، از اینجا می‌توانید عکس مورد نظر را از روی موبایل پیدا کرده و روی نهفت بارگذاری کنید.  پیام رمگشایی شده در  صفحه‌ی چت قابل خواندن است.";
 
 /* No comment provided by engineer. */
 "To manually decrypt an encrypted photo, you need to follow these two conditions:\nCondition 1: You know who sent the photo and have previously exchanged public keys…" = "برای رمزگشایی دستی عکس رمزنگاری شده، این دو شرط باید رعایت شود:\nشرط اول:  شما می‌دانید که عکس را چه کسی ارسال کرده و قبلا کلیدهای عمومی خود را رد و بدل کرده‌اید.…";
 
 /* No comment provided by engineer. */
-"To manually send an encrypted text, you need to follow these steps:\n1. Exchange public keys with your desired friend beforehand.\n2. Go to your friend's chat page and, at the bottom of the page, write your message in the \"type your message\" section, similar to any other messaging platform.\n3. Press the send button. Immediately after sending the message, a popup will appear.\n4. Copy the encrypted text and send it to the intended person through any messaging platform you prefer." = "برای ارسال دستی متن رمزنگاری شده، این شرط باید رعایت شود:\nشما قبلا کلیدهای عمومی خود را با دوست مورد نظرتان رد و بدل کرده‌اید.\nبه صفحه‌ی چت دوست مورد نظر خود بروید و در پایین صفحه در بخش \"پیام خود را بنویس\" مانند هر پیام رسان دیگری پیام را بنویسید و دکمه ارسال را بزنید. بلافاصله پس از ارسال پیام، یک صفحه بالا می‌آید، متن رمزنگاری شده را کپی کرده و از طریق هر پیام‌رسانی که صلاح می‌دانید برای شخص مورد نظر ارسال کنید.";
+"To manually send an encrypted text, you need to follow these steps:\n1. Exchange public keys with your desired friend beforehand.\n2. Go to your friend's chat page and, at the bottom of the page, write your message in the \"type your message\" section, similar to any other messaging platform.\n3. Press the send button. Immediately after sending the message, a popup will appear.\n4. Copy the encrypted text and send it to the intended person through any messaging platform you prefer." = "برای ارسال متن رمزنگاری شده، این شرط باید رعایت شود:\nشما قبلا کلیدهای عمومی خود را با دوست مورد نظرتان رد و بدل کرده‌اید.\nبه صفحه‌ی چت دوست مورد نظر خود بروید و در پایین صفحه در بخش \"پیام خود را بنویس\" مانند هر پیام رسان دیگری پیام را بنویسید و دکمه ارسال را بزنید. بلافاصله پس از ارسال پیام، یک صفحه بالا می‌آید، متن رمزنگاری شده را کپی کرده و از طریق هر پیام‌رسانی که صلاح می‌دانید برای شخص مورد نظر ارسال کنید.";
 
 /* No comment provided by engineer. */
-"To manually send an encrypted text, you need to follow these steps:\n1. Exchange public keys with your desired friend beforehand.\n2. Go to your friend's chat page and, at the bottom of the page, write your message in the \"type your message\" section, similar to any other messaging platform…" = "برای ارسال دستی متن رمزنگاری شده، این شرط باید رعایت شود:\nشما قبلا کلیدهای عمومی خود را با دوست مورد نظرتان رد و بدل کرده‌اید.\nبه صفحه‌ی چت دوست مورد نظر خود بروید و در پایین صفحه در بخش \"پیام خود را بنویس\" مانند هر پیام رسان دیگری پیام را بنویسید…";
+"To manually send an encrypted text, you need to follow these steps:\n1. Exchange public keys with your desired friend beforehand.\n2. Go to your friend's chat page and, at the bottom of the page, write your message in the \"type your message\" section, similar to any other messaging platform…" = "برای ارسال متن رمزنگاری شده، این شرط باید رعایت شود:\nشما قبلا کلیدهای عمومی خود را با دوست مورد نظرتان رد و بدل کرده‌اید.\nبه صفحه‌ی چت دوست مورد نظر خود بروید و در پایین صفحه در بخش \"پیام خود را بنویس\" مانند هر پیام رسان دیگری پیام را بنویسید…";
 
 /* No comment provided by engineer. */
-"To send an encrypted photo manually, you need to follow these two conditions:\nCondition 1: You know who you want to send the photo to and have previously exchanged public keys.\nCondition 2: You send the photo as a file to your friend. For example, if you are using Telegram to send the photo, you should send it as a file and not directly from your phone's gallery. This is because Telegram reduces the size of photos, and it won't be possible to decrypt such a photo. However, if you send the photo as a file, Telegram won't make any changes to the photo, and it can be decrypted.\nAssuming you have met the above two conditions, go to the chat page of the person you want to send the encrypted message to. On the bottom left side of the page, click on camera icon. After clicking, two new icons will appear.\nDownload icon is for when you want to hide your message in a photo and save the photo on your phone to send it to someone later.\nShare icon is for when you want to hide your message in a photo and immediately send the photo through other messaging apps to the desired person." = "برای ارسال دستی عکس رمزنگاری شده، این دو شرط باید رعایت شود:\nشرط اول:  شما می‌دانید که عکس را به چه کسی می‌خواهید بفرستید و قبلا کلیدهای عمومی خود را رد و بدل کرده‌اید.\nشرط دوم: عکس ارسال شده را به صورت فایل برای دوست خود می‌فرستید. برای مثال اگر از تلگرام برای ارسال عکس استفاده می‌کنید، باید عکس را به صورت فایل بفرستید و نه از روی گالری گوشی، زیرا تلگرام  حجم عکس‌ها را کم می‌کند و چنین عکسی را نمی‌شود رمزگشایی کرد. اما اگر عکس را به شکل فایل ارسال کنید تلگرام هیچ تغییری روی عکس اعمال نمی‌کند و این عکس را می‌وسد رمزگشایی کرد.\nبا فرض رعایت دو شرط بالا، در نهفت به صفحه چت شخصی که پیامش را میخواهید برایش پیام رمزنگاری شده بفرستید، بروید. سمت چپ پایین صفحه روی آیکن دوربین کلیک کنید. پس از کلیک، دو آیکن جدید پدیدار می‌شوند.\nآیکن شکل دانلود برای وقتی هست که می‌خواهید پیام خود را در یک عکس پنهان کرده و عکس را در گوشی خود ذخیره کنید تا سر فرصت آن را برای کسی که می‌خواهید ارسال کنید.\nآیکن شکل اشتراک‌گذاری برای وقتی هست که می‌خواهید پیام خود را در یک عکس پنهان کرده و بلافاصله عکس را از طریق پیام‌رسان‌های دیگر به شخص مورد نظر بفرستید.";
+"To send an encrypted photo manually, you need to follow these two conditions:\nCondition 1: You know who you want to send the photo to and have previously exchanged public keys.\nCondition 2: You send the photo as a file to your friend. For example, if you are using Telegram to send the photo, you should send it as a file and not directly from your phone's gallery. This is because Telegram reduces the size of photos, and it won't be possible to decrypt such a photo. However, if you send the photo as a file, Telegram won't make any changes to the photo, and it can be decrypted.\nAssuming you have met the above two conditions, go to the chat page of the person you want to send the encrypted message to. On the bottom left side of the page, click on camera icon. After clicking, two new icons will appear.\nDownload icon is for when you want to hide your message in a photo and save the photo on your phone to send it to someone later.\nShare icon is for when you want to hide your message in a photo and immediately send the photo through other messaging apps to the desired person." = "برای ارسال عکس رمزنگاری شده، این دو شرط باید رعایت شود:\nشرط اول:  شما می‌دانید که عکس را به چه کسی می‌خواهید بفرستید و قبلا کلیدهای عمومی خود را رد و بدل کرده‌اید.\nشرط دوم: عکس ارسال شده را به صورت فایل برای دوست خود می‌فرستید. برای مثال اگر از تلگرام برای ارسال عکس استفاده می‌کنید، باید عکس را به صورت فایل بفرستید و نه از روی گالری گوشی، زیرا تلگرام  حجم عکس‌ها را کم می‌کند و چنین عکسی را نمی‌شود رمزگشایی کرد. اما اگر عکس را به شکل فایل ارسال کنید تلگرام هیچ تغییری روی عکس اعمال نمی‌کند و این عکس را می‌وسد رمزگشایی کرد.\nبا فرض رعایت دو شرط بالا، در نهفت به صفحه چت شخصی که پیامش را میخواهید برایش پیام رمزنگاری شده بفرستید، بروید. سمت چپ پایین صفحه روی آیکن دوربین کلیک کنید. پس از کلیک، دو آیکن جدید پدیدار می‌شوند.\nآیکن شکل دانلود برای وقتی هست که می‌خواهید پیام خود را در یک عکس پنهان کرده و عکس را در گوشی خود ذخیره کنید تا سر فرصت آن را برای کسی که می‌خواهید ارسال کنید.\nآیکن شکل اشتراک‌گذاری برای وقتی هست که می‌خواهید پیام خود را در یک عکس پنهان کرده و بلافاصله عکس را از طریق پیام‌رسان‌های دیگر به شخص مورد نظر بفرستید.";
 
 /* No comment provided by engineer. */
-"To send an encrypted photo manually, you need to follow these two conditions:\nCondition 1: You know who you want to send the photo to and have previously exchanged public keys…" = "برای ارسال دستی عکس رمزنگاری شده، این دو شرط باید رعایت شود:\nشرط اول:  شما می‌دانید که عکس را به چه کسی می‌خواهید بفرستید و قبلا کلیدهای عمومی خود را رد و بدل کرده‌اید.…";
+"To send an encrypted photo manually, you need to follow these two conditions:\nCondition 1: You know who you want to send the photo to and have previously exchanged public keys…" = "برای ارسال عکس رمزنگاری شده، این دو شرط باید رعایت شود:\nشرط اول:  شما می‌دانید که عکس را به چه کسی می‌خواهید بفرستید و قبلا کلیدهای عمومی خود را رد و بدل کرده‌اید.…";
 
 /* No comment provided by engineer. */
 "To view your friend's public key, go to the chat page of you and your friend. On the chat page, click on their name, a new page will open where you can see both your friend's public key and your own public key. Your public key can also be viewed from the settings section." = "برای دیدن کلید عمومی دوستتان به صفحه چت  با او در نهفت بروید. در صفحه‌ی چت روی نام دوست خود کلیک کنید. یک صفحه باز می‌شود در این صفحه شما می‌توانید کلید عمومی دوستتان و کلید عمومی خودتان را ببینید. کلید عمومی شما از بخش تنظیمات نهفت هم قابل مشاهده است.";
@@ -243,6 +243,12 @@
 
 /* No comment provided by engineer. */
 "Verified status" = "وضعیت تایید شده";
+
+/* No comment provided by engineer. */
+"Write your message and use this button to send it to your friend" = "پیام خود را وارد کنید و از این دکمه برای ارسال آن استفاده کنید";
+
+/* No comment provided by engineer. */
+"Yes" = "بله";
 
 /* No comment provided by engineer. */
 "You" = "شما";
@@ -257,7 +263,7 @@
 "You have not registered any fingerprint yet." = "شما هیچ اثر انگشتی در دستگاه خود ثبت نکردید";
 
 /* No comment provided by engineer. */
-"You have sent your public key to %@ and are now awaiting their public key in return." = "شما کلید عمومی خود را به \"نام کاربر\" ارسال کرده اید و اکنون منتظر کلید عمومی آنها هستید. پس از دریافت کلید عمومی \"نام کاربر\"، یک اتصال امن برقرار می‌شود. برای وارد کردن دستی کلید عمومی %@ از دکمه‌ی زیر استفاده کنید.";
+"You have sent your public key to %@ and are now awaiting their public key in return." = "شما کلید عمومی خود را به دوستتان ارسال کرده اید و اکنون منتظر کلید عمومی آنها هستید. پس از دریافت کلید عمومی دوستتان، یک اتصال امن برقرار می‌شود. برای وارد کردن دستی کلید عمومی %@ از دکمه‌ی زیر استفاده کنید.";
 
 /* No comment provided by engineer. */
 "Your Code" = "کد شما";
