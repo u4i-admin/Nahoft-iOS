@@ -18,22 +18,22 @@ struct SendMessageView: View {
     
     var body: some View {
         HStack(spacing: 15) {
-            PhotosPicker(selection: $selectedItems, maxSelectionCount: 1, matching: .images, photoLibrary: .shared()) {
-                Image(systemName: "photo.on.rectangle")
-                    .font(.system(size: 24))
-            }
-            .onChange(of: selectedItems) { newValue in
-                for item in newValue {
-                    Task {
-                        if let data = try? await item.loadTransferable(type: Data.self) {
-                            imageData = UIImage(data: data)
-                            if let imageData {
-                                sendAsImage(cover: imageData)
-                            }
-                        }
-                    }
-                }
-            }
+//            PhotosPicker(selection: $selectedItems, maxSelectionCount: 1, matching: .images, photoLibrary: .shared()) {
+//                Image(systemName: "photo.on.rectangle")
+//                    .font(.system(size: 24))
+//            }
+//            .onChange(of: selectedItems) { newValue in
+//                for item in newValue {
+//                    Task {
+//                        if let data = try? await item.loadTransferable(type: Data.self) {
+//                            imageData = UIImage(data: data)
+//                            if let imageData {
+//                                sendAsImage(cover: imageData)
+//                            }
+//                        }
+//                    }
+//                }
+//            }
 //            Button {
 //                sendAsImage()
 //            } label: {
