@@ -39,6 +39,11 @@ struct ImportMessageView: View {
             showAlert = true
             return
         }
+        if result.type == .Key {
+            alertText = "This message contains a public key"
+            showAlert = true
+            return
+        }
         do {
             let data = try JsonService.fromJson(str: passedFriend.publicKeyEncoded!)
             _ = try Encryption().decrypt(friendPublicKey: data, ciphertext: result.payload)
