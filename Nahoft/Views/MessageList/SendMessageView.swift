@@ -15,6 +15,8 @@ struct SendMessageView: View {
     @State private var imageData: UIImage? = nil
     
     @State private var showImportConfirmation = false
+    @State private var alertText = ""
+    @State private var showAlert = false
     
     let sendMessageTip = SendMessageTip()
     
@@ -45,6 +47,7 @@ struct SendMessageView: View {
 //            }
             
             TextField("Type Your Message", text: $message, axis: .vertical)
+                .padding()
             
             Button {
                 sendMessage()
@@ -56,6 +59,8 @@ struct SendMessageView: View {
             .padding(.horizontal)
             .padding(.vertical, 10)
         }
+        .background(.thinMaterial)
+        .cornerRadius(8.0)
         .padding(.horizontal)
         .padding(.vertical, 10)
         .confirmationDialog("Import message?", isPresented: $showImportConfirmation) {
@@ -63,6 +68,9 @@ struct SendMessageView: View {
             Button("No") { encodeMessage() }
         } message: {
             Text("The text you are attempting to send has already been encrypted. Would you like to decrypt it instead of sending it?")
+        }
+        .alert(alertText, isPresented: $showAlert) {
+            Button("Ok", role: .cancel) {}
         }
     }
     
@@ -77,12 +85,21 @@ struct SendMessageView: View {
     
     func importMessage() {
         let result = Codex().decode(ciphertext: message)
-        
+        guard let result = result else {
+            alertText = "Unable to decrypt the message"
+            showAlert = true
+            return
+        }
+        if result.type == .Key {
+            alertText = "This message contains a public key"
+            showAlert = true
+            return
+        }
         do {
             let data = try JsonService.fromJson(str: passedFriend.publicKeyEncoded!)
-            _ = try Encryption().decrypt(friendPublicKey: data, ciphertext: result!.payload)
+            _ = try Encryption().decrypt(friendPublicKey: data, ciphertext: result.payload)
             
-            let jsonData = try JsonService.toJson(data: result!.payload)
+            let jsonData = try JsonService.toJson(data: result.payload)
             try PersistenceController.shared.saveMessage(friend: passedFriend, messageText: jsonData, fromMe: false)
         } catch {
             
