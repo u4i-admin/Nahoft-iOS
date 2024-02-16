@@ -16,6 +16,8 @@ struct SendMessageView: View {
     
     @State private var showImportConfirmation = false
     
+    let sendMessageTip = SendMessageTip()
+    
     var body: some View {
         HStack(spacing: 15) {
 //            PhotosPicker(selection: $selectedItems, maxSelectionCount: 1, matching: .images, photoLibrary: .shared()) {
@@ -50,6 +52,7 @@ struct SendMessageView: View {
                 Image(systemName: "paperplane.circle.fill")
                     .font(.system(size: 24))
             }
+            .popoverTip(sendMessageTip)
             .padding(.horizontal)
             .padding(.vertical, 10)
         }
