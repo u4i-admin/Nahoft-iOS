@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "07230970-771E-4C55-80BD-628E229F0DFA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E7E0A9D-8A94-4F6C-A3FD-491C629AD524"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nahoft/Views/MessageList/ImportMessageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "importAction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E7E0A9D-8A94-4F6C-A3FD-491C629AD524 - ce55756fc3f1173b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.ImportMessageView.importAction() -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/workaccount/Documents/U4IProjects/Nahoft/Nahoft-iOS/Nahoft/Nahoft/Views/MessageList/ImportMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "2E7E0A9D-8A94-4F6C-A3FD-491C629AD524 - ce55756fc3f1173b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.ImportMessageView.importAction() -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/workaccount/Documents/U4IProjects/Nahoft/Nahoft-iOS/Nahoft/Nahoft/Views/MessageList/ImportMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "2E7E0A9D-8A94-4F6C-A3FD-491C629AD524 - ce55756fc3f1173b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nahoft.ImportMessageView.importAction() -&gt; ()"
+                  moduleName = "Nahoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/workaccount/Documents/U4IProjects/Nahoft/Nahoft-iOS/Nahoft/Nahoft/Views/MessageList/ImportMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
