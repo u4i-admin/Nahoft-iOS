@@ -44,7 +44,7 @@ struct MyMessageView: View {
             let decrypted = try Encryption().decrypt(friendPublicKey: data, ciphertext: str)
             return decrypted
         } catch {
-            print(error)
+            //print(error)
         }
         return "Decrypt failed"
     }

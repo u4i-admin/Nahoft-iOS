@@ -10,6 +10,11 @@ import BackgroundTasks
 
 @main
 struct NahoftApp: App {
+    
+    init() {
+        checkForFirstTime()
+    }
+    
     @StateObject var authentication = Authentication()
     let persistenceController = PersistenceController.shared
     @State private var showSecureWindow: Bool = false
@@ -53,6 +58,7 @@ struct NahoftApp: App {
                 showSecureWindow = true
             case .active:
                 showSecureWindow = false
+//                checkForFirstTime()
             @unknown default:
                 break
             }
@@ -64,6 +70,7 @@ struct NahoftApp: App {
     }
     
     func scheduleAppRefresh() {
+        if authentication.loginStatus == .LoggedIn {
         let request = BGAppRefreshTaskRequest(identifier: "org.nahoft.appLock")
         request.earliestBeginDate = Date(timeIntervalSinceNow: 3 * 60)
         do {
@@ -71,6 +78,16 @@ struct NahoftApp: App {
             print("Background Task Scheduled!")
         } catch(let error) {
             print("Scheduling Error \(error.localizedDescription)")
+            }
+        }
+    }
+    
+    func checkForFirstTime() {
+        let encryptedMessage = UserDefaults.standard.string(forKey: "isFirstTime")
+        if encryptedMessage == nil {
+            LoginView().clearAllData(secondaryPass: false)
+            authentication.updateAuth(status: .NotRequired)
+            UserDefaults.standard.set("False", forKey: "isFirstTime")
         }
     }
 }
